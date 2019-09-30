@@ -7,12 +7,21 @@
   "files": [
     "build/src"
   ],
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pan-jiaquan/vue-async-state.git"
+  },
   "keywords": [
     "composition api",
     "async",
     "hooks"
   ],
+  "author": "pan-jiaquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pan-jiaquan/vue-async-state/issues"
+  },
+  "homepage": "https://github.com/pan-jiaquan/vue-async-state#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "check": "gts check",
