@@ -1,6 +1,6 @@
 {
   "name": "vue-async-state",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simplest way to get async result / feedback in use vue composition api",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
